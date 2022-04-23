@@ -384,11 +384,11 @@ section{
 .footer .credit{
     font-size: 2rem;
     color:rgb(20, 20, 20);
-    font-weight: lighter;
-    padding:1.8rem;
+    font-weight: bold;
+    padding:1.5rem;
 }
 .footer .credit span{
-    color:var(--black);
+    color: black;
 }
 /* media queries  */
 @media (max-width:991px){
