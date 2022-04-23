@@ -160,7 +160,7 @@ section{
 .header .cart-items-container .cart-item img{
     height: 7rem;
 }
-.header .cart-items-container .cart-item .content h3{
+.header .cart-items-container .cart-item .content h2{
     font-size: 2rem;
     color:var(--black);
     padding-bottom: .5rem;
@@ -184,7 +184,7 @@ section{
 .home .content{
     max-width: 60rem;
 }
-.home .content h3{
+.home .content h1{
     font-size: 6rem;
     text-transform: uppercase;
     color:rgb(255, 255, 255);
@@ -351,7 +351,7 @@ section{
     padding:5rem 2rem;
     text-align: center;
 }
-.contact .row form h3{
+.contact .row form h1{
     text-transform: uppercase;
     font-size: 3.5rem;
     color:rgb(20, 20, 20);
