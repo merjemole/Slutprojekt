@@ -284,7 +284,7 @@ section{
 .products .box-container .box .image img{
     height: 25rem;
 }
-.products .box-container .box .content h3{
+.products .box-container .box .content h2{
     color:rgb(0, 0, 0);
     font-size: 2.5rem;
 }
@@ -326,7 +326,7 @@ section{
     border-radius: 50%;
     object-fit: cover;
 }
-.review .box-container .box h3{
+.review .box-container .box h2{
     padding:1rem 0;
     font-size: 2rem;
     color:rgb(20, 20, 20);
