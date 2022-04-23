@@ -2,7 +2,7 @@
 :root{
     --main-color:#ffba24;
     --black:#ffffff;
-    --bg:#000000;
+    --bg:#fffefe;
     --border:.1rem solid rgba(0, 0, 0, 0.3);
 }
 *{
@@ -187,14 +187,14 @@ section{
 .home .content h3{
     font-size: 6rem;
     text-transform: uppercase;
-    color:rgb(247, 210, 48);
+    color:rgb(255, 255, 255);
 }
 .home .content p{
     font-size: 2rem;
     font-weight: lighter;
     line-height: 1.8;
     padding:1rem 0;
-    color:rgb(252, 199, 54);
+    color:rgb(255, 255, 255);
 }
 .about .row{
     display: flex;
